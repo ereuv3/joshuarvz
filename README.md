@@ -1,5 +1,6 @@
 ## Verifica que no eres un robot 🤖
 ### ☑ I'm not a robot
-Hola, soy Joshua, estudiante de TICS. Mi "lenguaje de programacion" favorito es el **HTML**, hasta ahora es el que más o menos entiendo un poco. ~~aunque no estoy seguro que sea uno xd~~
+Hola, soy Joshua, estudiante de TICS. Estoy emocionado por la materia que nos daran de Mantenimiento y redes de computacion la verdad, creo que sera muy epico 👌
 
-pronto pondre mas cosas aqui...
+## Horario
+![Horario de clases](https://user-images.githubusercontent.com/99761149/154208159-966c4dee-f279-4fdb-82cf-daed32dcbaa9.png)
