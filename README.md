@@ -1,5 +1,5 @@
-## Verifica que no eres un robot 🤖
-### ☑ I'm not a robot
+## Verifica que no eres un robot
+### ☑ I'm not a robot 
 Hola, soy Joshua, estudiante de TICS. Estoy emocionado por la materia que nos daran de Mantenimiento y redes de computacion la verdad, creo que sera muy epico 👌
 
 Cosas favoritas:
