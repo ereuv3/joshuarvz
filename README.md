@@ -9,6 +9,10 @@ Cosas favoritas:
 * Videojuegos, en especial de _Super Mario._
 
 ![image](https://user-images.githubusercontent.com/99761149/154761336-bfdf3230-662a-4087-ab87-a9a26ca03b19.png)
+
+* Tambien me gusta un juego llamado My Singing Monsters
+
+![image](https://user-images.githubusercontent.com/99761149/154771411-b54bf22d-95c4-44d1-958d-57e3753cd764.png)
 * Musica electronica, mi grupo favorito es Daft Punk.
 
 ![image](https://user-images.githubusercontent.com/99761149/154761614-6308246a-fec8-411b-a228-18492ddf1dbb.png)
